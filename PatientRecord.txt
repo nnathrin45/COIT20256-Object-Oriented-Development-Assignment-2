@@ -1,0 +1,6 @@
+Kate,Jones,0411222110,45,125,3.5,true
+Michael,Li,0411555122,61,140,4.6,false
+John,Smith,0423677100,25,125,5.1,false
+Jack,Blair,0423000111,50,145,3.5,false
+Tony,Blair,0415220189,79,180,7.5,true
+Jack,London,0456111267,35,125,3.1,true

@@ -1,0 +1,9 @@
+Nate Rinsakul,0422496863,20,120,4.0,true
+John Smith,0423677100,25,125,5.1,false
+Dave Rinsakul,0422496862,28,125,3.5,false
+Jack London,0456111267,35,125,3.1,true
+Kate Jones,0411222110,45,125,3.5,true
+Jack Blair,0423000111,50,145,3.5,false
+Michael Li,0411555122,61,140,4.6,false
+Tony Blair,0415220189,79,180,7.5,true
+Kenny Lee,0422496867,29,130,4.0,false

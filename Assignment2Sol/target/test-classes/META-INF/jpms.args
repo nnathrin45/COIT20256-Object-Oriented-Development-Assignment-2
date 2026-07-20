@@ -1,0 +1,4 @@
+--patch-module
+cqu.assignment2sol=_
+--add-reads
+cqu.assignment2sol=ALL-UNNAMED
